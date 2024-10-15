@@ -1,6 +1,7 @@
 # Urinalysis
  This project proposes a smartphone-based approach to accurately read the colors of a urine test strip for clinical diagnosis using Machine Learning.
 
+link to publication: https://ieeexplore.ieee.org/abstract/document/9870917
 
 	For execution:
 		1. Open Visual Studio Code IDE. 
